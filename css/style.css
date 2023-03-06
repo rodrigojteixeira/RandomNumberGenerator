@@ -32,3 +32,10 @@ h2 {
     font-weight: 700;
     margin-bottom: 20px;
 }
+
+.group {
+    display: flex;
+    padding: 20px 0px;
+    gap: 50px;
+}
+
