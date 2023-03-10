@@ -60,3 +60,8 @@ h2 {
     color: #fff;
 }
 
+.input input:focus {
+    outline: none;
+    border-bottom: 3px solid #7336ff;
+}
+
