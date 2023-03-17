@@ -5,4 +5,3 @@ button.addEventListener('click', function() {
     const max = parseInt(document.getElementById('max').value);
 
 }
-
