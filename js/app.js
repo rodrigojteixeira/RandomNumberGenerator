@@ -5,5 +5,6 @@ button.addEventListener('click', function() {
     const max = parseInt(document.getElementById('max').value);
 
     let result = Math.floor(Math.random() * (max - min + 1)) + min;
-    
-}
+
+    document.querySelector('#result > span').textContent = result;
+});
