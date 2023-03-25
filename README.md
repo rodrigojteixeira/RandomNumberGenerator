@@ -16,4 +16,7 @@ This is a solution to the Random Number Generator challenge
 
 Create a Random Number Generator with HTML, CSS and JavaScript
 
+### Screenshot
+
+![Tela Inicial](./images/Screenshot1.png)
 
