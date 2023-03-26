@@ -20,3 +20,7 @@ Create a Random Number Generator with HTML, CSS and JavaScript
 
 ![Tela Inicial](./images/Screenshot1.png)
 
+### Links
+
+- Solution URL:  https://github.com/rodrigojteixeira/RandomNumberGenerator
+- Live Site URL: https://rodrigojteixeira.github.io/RandomNumberGenerator/
