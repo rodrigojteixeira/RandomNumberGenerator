@@ -24,3 +24,9 @@ Create a Random Number Generator with HTML, CSS and JavaScript
 
 - Solution URL:  https://github.com/rodrigojteixeira/RandomNumberGenerator
 - Live Site URL: https://rodrigojteixeira.github.io/RandomNumberGenerator/
+
+## Author
+
+- LinkedIn  - https://www.linkedin.com/in/rodrigojt/
+- GitHub    - https://github.com/rodrigojteixeira
+- Frontend Mentor - https://www.frontendmentor.io/profile/rodrigojteixeira
